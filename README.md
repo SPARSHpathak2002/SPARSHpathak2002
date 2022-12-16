@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am a 3rd year student pursuing B.Tech in Computer Science and Engineering<br>I am a Passionate and Versatile devloper<br>I am currently working on full-stack with MERN,PYTHON<br>i am highly interested about AI<br>in free time i build 2d games <br> i love building and finding logics behind Tech
+I am **Sparsh Pathak** , a third year student of Computer Science and Engineering. Heading to pursue a career in software Devlopment
 
+🧠 Full-Stack devlopment <br>
+💼 Versatile devloper<br>
+💻 technophile<br>
+🌍 India<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sparsh_pathak2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparsh-pathak-3b2386225) 
