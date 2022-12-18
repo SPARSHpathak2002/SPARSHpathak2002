@@ -5,7 +5,7 @@ I am **Sparsh Pathak** , a third year student of Computer Science and Engineerin
 💼 Versatile devloper<br>
 💻 technophile<br>
 🌍 India<br>
-🔗 [click_here](sparshpathak.netlify.app) to know more about me<br>
+🔗 [click_here](https://sparshpathak.netlify.app/) to know more about me<br>
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sparsh_pathak2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sparsh-pathak-3b2386225) 
