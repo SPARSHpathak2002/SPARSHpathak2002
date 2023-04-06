@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am **Sparsh Pathak** , a third year student of Computer Science and Engineering. Heading to pursue a career in software Devlopment
+I am **Sparsh Pathak** , a third year student of Computer Science and Engineering. Heading to pursue a career in software Devlopment.
 
 🧠 Full-Stack devlopment <br>
 💼 Versatile devloper<br>
